@@ -1,4 +1,4 @@
-# Event extraction
+# Information extraction
 
 ## 2018
 
