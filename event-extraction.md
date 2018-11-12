@@ -6,29 +6,29 @@
 
 *James Ferguson, Colin Lockard, Hannaneh Hajishirzi and Daniel Weld*
 
-**NAACL** Implicit Argument Prediction with Event Knowledge [pdf] (https://arxiv.org/pdf/1802.07226.pdf)
+**NAACL** Implicit Argument Prediction with Event Knowledge [pdf](https://arxiv.org/pdf/1802.07226.pdf)
 
 *Pengxiang Cheng and Katrin Erk*
 
-**NAACL** Global Relation Embedding for Relation Extraction [pdf] (https://arxiv.org/pdf/1802.07226.pdf)
+**NAACL** Global Relation Embedding for Relation Extraction [pdf](https://arxiv.org/pdf/1802.07226.pdf)
 
 *Yu Su, Honglei Liu, Semih Yavuz, Izzeddin Gur, Huan Sun and Xifeng Yan*
 
 
-** ** [pdf] ()
+**NAACL** Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource [pdf](https://arxiv.org/pdf/1804.06020.pdf)
+
+*Qiang Ning, Hao Wu, Haoruo Peng and Dan Roth*
+
+
+
+** ** [pdf]()
 
 *  *
 
 
 
-** ** [pdf] ()
 
-*  *
-
-
-
-
-** ** [pdf] ()
+** ** [pdf]()
 
 *  *
 
