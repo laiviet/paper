@@ -1,11 +1,23 @@
 # Information extraction
 
 ## 2018
-- []() [ACL]
+- [Automatic Extraction of Commonsense LocatedNear Knowledge](http://www.aclweb.org/anthology/P18-2016) [ACL]
 
-- []() [ACL]
+- [Using pseudo-senses for improving the extraction of synonyms from word embeddings](http://aclweb.org/anthology/P18-2056) [ACL]
 
-- []() [ACL]
+- [Learning with Structured Representations for Negation Scope Extraction](http://aclweb.org/anthology/P18-2085) [ACL]
+
+- [Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction](http://aclweb.org/anthology/P18-2015) [ACL]
+
+- [Neural Open Information Extraction](https://arxiv.org/pdf/1805.04270.pdf) [ACL]
+
+- [Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction](http://www.aclweb.org/anthology/P18-2094) [ACL]
+
+- [A Walk-based Model on Entity Graphs for Relation Extraction](http://aclweb.org/anthology/P18-2014) [ACL]
+
+- [Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information](http://aclweb.org/anthology/P18-2108) [ACL]
+
+- [Document Modeling with External Attention for Sentence Extraction](http://www.aclweb.org/anthology/P18-1188) [ACL]
 
 - [DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction](https://arxiv.org/pdf/1805.09929.pdf) [ACL]
 
