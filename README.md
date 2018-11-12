@@ -1,1 +1,1 @@
-# paper
+# Reading group
