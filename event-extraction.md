@@ -2,7 +2,7 @@
 
 ## 2018
 
-**NAACL** Semi-Supervised Event Extraction with Paraphrase Clusters [pdf](http://aclweb.org/anthology/N18-2058)
+**NAACL** [Semi-Supervised Event Extraction with Paraphrase Clusters](http://aclweb.org/anthology/N18-2058)
 
 *James Ferguson, Colin Lockard, Hannaneh Hajishirzi and Daniel Weld*
 
