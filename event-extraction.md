@@ -35,3 +35,7 @@
 [Unsupervised Keyphrase Extraction with Multipartite Graphs](http://www.aclweb.org/anthology/N18-2105)
 *Florian Boudin*
 
+
+[Visually Guided Spatial Relation Extraction from Text](http://aclweb.org/anthology/N18-2124)
+*Taher Rahgooy, Umar Manzoor and Parisa Kordjamshidi*
+
