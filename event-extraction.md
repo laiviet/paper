@@ -32,11 +32,9 @@
 *Ajay Nagesh and Mihai Surdeanu*
 
 
+**** [Simultaneously Self-Attending to All Mentions for Full-Abstract Biological Relation Extraction](https://arxiv.org/pdf/1802.10569.pdf)
 
-
-**** [pdf] ()
-
-**
+*Patrick Verga, Emma Strubell and Andrew McCallum*
 
 
 
